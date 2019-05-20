@@ -1,6 +1,6 @@
 package com.k001.basic;
 import java.util.Scanner;
-public class bai1 {
+public class Bai1 {
     public static void main(String args[]){
         Scanner cin = new Scanner(System.in);
         double a,b;

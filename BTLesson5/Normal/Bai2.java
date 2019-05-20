@@ -1,7 +1,7 @@
 package com.k001.basic;
 import java.util.Scanner;
 import java.lang.Math;
-public class bai2 {
+public class Bai2 {
     public static void main(String args[]){
         double a,b,c;
         Scanner cin = new Scanner(System.in);
@@ -22,8 +22,6 @@ public class bai2 {
                 System.out.println("Phương trình có 2 nghiệm phân biệt:");
                 System.out.println("x1 = " + x1);
                 System.out.println("x2 = " + x2);
-
-
             }
         }
 
